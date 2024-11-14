@@ -1,6 +1,7 @@
 # Deep Learning for Social Scientists
 
-University of Oslo, November 27-28, 2024
+University of Oslo
+November 27-28, 2024
 
 Reto Wüest
 
@@ -42,14 +43,14 @@ Other useful books are:
 
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
 | :-------- | :-------------- | :-------------------------------------- | :---------------------- |
-| Thursday  | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
+| Wednesday | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
 |           |                 | - Shallow neural networks               | Prince (2024), ch. 3    |
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
 |           |                 | - Loss functions                        | Prince (2024), ch. 5    |
 |           | Afternoon       | - Fitting models                        | Prince (2024), chs. 6-7 |
 |           |                 | - Measuring performance                 | Prince (2024), ch. 8    |
 |           |                 | - Introduction to Python                |                         |
-| Friday    | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
+| Thursday  | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
 |           |                 | - CNNs with Python                      |                         |
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
 |           |                 | - Transformers with Python              |                         |
