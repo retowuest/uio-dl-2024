@@ -1,7 +1,6 @@
 # Deep Learning for Social Scientists
 
-University of Oslo
-November 27-28, 2024
+University of Oslo, November 27-28, 2024
 
 Reto Wüest
 
