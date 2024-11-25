@@ -53,10 +53,10 @@ Other useful books are:
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
 |           | Afternoon       | - Loss functions                        | Prince (2024), ch. 5    |
 |           |                 | - Fitting models                        | Prince (2024), chs. 6-7 |
-|           |                 | - *Demo 2: Gradient descent*            |                         |
+|           |                 | - *Demo 2: Gradient descent*            | [Notebook 1](Notebooks/nb-1.ipynb) |
 |           |                 | - Measuring performance                 | Prince (2024), ch. 8    |
-|           |                 | - *Demo 3: Fully connected deep NNs*    |                         |
+|           |                 | - *Demo 3: Fully connected deep NNs*    | [Notebook 2](Notebooks/nb-2.ipynb) |
 | Thursday  | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
-|           |                 | - *Demo 4: CNNs*                        |                         |
+|           |                 | - *Demo 4: CNNs*                        | [Notebook 3](Notebooks/nb-3.ipynb) |
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
-|           |                 | - *Demo 5: Transformers*                |                         |
+|           |                 | - *Demo 5: Transformers*                | [Notebook 4](Notebooks/nb-4.ipynb) |
