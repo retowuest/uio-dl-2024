@@ -57,6 +57,6 @@ Other useful books are:
 |           |                 | - Measuring performance                 | Prince (2024), ch. 8    |
 |           |                 | - *Demo 3: Fully connected deep NNs*    |                         |
 | Thursday  | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
-|           |                 | - *Demo 4:CNNs*                         |                         |
+|           |                 | - *Demo 4: CNNs*                        |                         |
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
 |           |                 | - *Demo 5: Transformers*                |                         |
