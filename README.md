@@ -6,13 +6,17 @@ Reto Wüest
 
 ## Course Content
 
-This two-day workshop serves as an introduction to deep learning with Python for social scientists. Deep learning is of special interest to social scientists because it allows the processing of time-series data, text, images, and more. On the first day, the course starts by providing participants with a high-level overview of machine learning, focusing on supervised learning. It then discusses shallow and deep neural networks as well as techniques we use to fit and assess these models. Subsequently, it briefly introduces the Python programming language. On the second day, the course introduces participants to convolutional neural networks (CNNs) and transformers, which are two widely used deep learning architectures.
+This two-day workshop offers an introduction to deep learning with Python and PyTorch for social scientists. Deep learning is particularly valuable in social science research, enabling the analysis of diverse data types such as time series, text, images, and more.
+
+**Day 1** begins with a high-level overview of machine learning, focusing on supervised learning. Participants will explore the fundamentals of deep learning, including shallow and deep neural networks as well as techniques for model fitting and evaluating model performance. The session will also briefly introduce the Python programming language and PyTorch, a popular framework for building and training deep learning models. In demo sessions, participants will learn how to implement linear regression, gradient descent, and feed-forward fully connected deep neural networks using Python and PyTorch.
+
+**Day 2** introduces two widely used specialized deep learning architectures: convolutional neural networks (CNNs) for image data and transformers for text data. In demo sessions, participants will learn how to implement these state-of-the-art models using Python and PyTorch.
 
 Upon successful completion of this course, participants should be able to:
 
 - understand some of the deep learning models that are most commonly used in academic research and industry;
 
-- apply these models to real-world data using Python;
+- apply these models to real-world data using Python and PyTorch;
 
 - explain the similarities and differences between these models as well as the advantages and disadvantages they have compared to more classical machine learning methods.
 
