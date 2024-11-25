@@ -46,7 +46,7 @@ Other useful books are:
 
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
 | :-------- | :-------------- | :-------------------------------------- | :---------------------- |
-| Wednesday | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
+| Wednesday | Morning         | -- ML and supervised learning            | Prince (2024), chs. 1-2 |
 |           |                 | - Python and PyTorch                    |                         |
 |           |                 | - *Demo 1: Linear regression*           |                         |
 |           |                 | - Shallow neural networks               | Prince (2024), ch. 3    |
