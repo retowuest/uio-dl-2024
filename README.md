@@ -47,13 +47,16 @@ Other useful books are:
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
 | :-------- | :-------------- | :-------------------------------------- | :---------------------- |
 | Wednesday | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
+|           |                 | - Python and PyTorch                    |                         |
+|           |                 | - *Demo 1: Linear regression*           |                         |
 |           |                 | - Shallow neural networks               | Prince (2024), ch. 3    |
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
-|           |                 | - Loss functions                        | Prince (2024), ch. 5    |
-|           | Afternoon       | - Fitting models                        | Prince (2024), chs. 6-7 |
+|           | Afternoon       | - Loss functions                        | Prince (2024), ch. 5    |
+|           |                 | - Fitting models                        | Prince (2024), chs. 6-7 |
+|           |                 | - *Demo 2: Gradient descent*            |                         |
 |           |                 | - Measuring performance                 | Prince (2024), ch. 8    |
-|           |                 | - Introduction to Python                |                         |
+|           |                 | - *Demo 3: Fully connected deep NNs*    |                         |
 | Thursday  | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
-|           |                 | - CNNs with Python                      |                         |
+|           |                 | - *Demo 4:CNNs*                         |                         |
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
-|           |                 | - Transformers with Python              |                         |
+|           |                 | - *Demo 5: Transformers*                |                         |
