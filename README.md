@@ -42,10 +42,6 @@ Other useful books are:
 
 - Zhang, Aston, Zachary C. Lipton, Mu Li, and Alexander J. Smola. 2023. *Dive into Deep Learning.* (Available for free [here](https://d2l.ai/).)
 
-## Course Slides
-
-Course slides are available [here](Slides/course-slides.html).
-
 ## Course Schedule
 
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
