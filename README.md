@@ -48,7 +48,7 @@ Other useful books are:
 | :-------- | :-------------- | :-------------------------------------- | :---------------------- |
 | Wednesday | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
 |           |                 | - Python and PyTorch                    |                         |
-|           |                 | - *Demo 1: Linear regression*           | [Notebook 1](Notebooks/nb-1.ipynb) |
+|           |                 | - *Demo 1: 1D Linear regression*        | [Notebook 1](Notebooks/nb-1.ipynb) |
 |           |                 | - Shallow neural networks               | Prince (2024), ch. 3    |
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
 |           | Afternoon       | - Loss functions                        | Prince (2024), ch. 5    |
